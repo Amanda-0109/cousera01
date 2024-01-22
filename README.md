@@ -1,1 +1,2 @@
 # cousera01
+exercício
