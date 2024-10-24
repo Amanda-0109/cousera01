@@ -1,2 +1,2 @@
-# cousera01
+# Cognos-Analytics
 exercício
